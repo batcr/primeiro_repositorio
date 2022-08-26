@@ -1,18 +1,18 @@
-# Finalidade
+﻿# Finalidade
 
- * Contole de versão, principio do armazenamento em nuvem, trabalho em equipe, melhorar o códico, reconhecimento.
+ * Controle de versão, princípio do armazenamento em nuvem, trabalho em equipe, melhorar o código, reconhecimento.
 
 # GIT
 
 * SHA1
-* Blods, trees, commits
+* Blobs, trees, commits
 
 # Observações do contexto aplicado.
 
  * Pacotes tracked ou untracked, podem estar em três estados unmodified, modified e staged.
- * Repositorios: servidor, ambiente desenvolvimento.
+ * Repositórios: servidor, ambiente desenvolvimento.
  * Servidor = GitHub
- * Ambiente de desenvolvimento = Working, Stangind, Local Repository.
+ * Ambiente de desenvolvimento = Working, Standing, Local Repository.
  
  # Comandos
  
