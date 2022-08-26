@@ -1,3 +1,29 @@
-Finalidade
+# Finalidade
 
- *Contole de versão, principio do armazenamento em nuvem, trabalho em equipe, melhorar o códico, reconhecimento.
+ * Contole de versão, principio do armazenamento em nuvem, trabalho em equipe, melhorar o códico, reconhecimento.
+
+# GIT
+
+* SHA1
+* Blods, trees, commits
+
+# Observações do contexto aplicado.
+
+ * Pacotes tracked ou untracked, podem estar em três estados unmodified, modified e staged.
+ * Repositorios: servidor, ambiente desenvolvimento.
+ * Servidor = GitHub
+ * Ambiente de desenvolvimento = Working, Stangind, Local Repository.
+ 
+ # Comandos
+ 
+ * git init
+ * git add (com . ou * ou -a seleciona tudo)
+ * git commit (com -m coloca um nome ao repositorio criado, melhora a organização)
+ * git status
+ * git clone
+ * cd
+ * dir/ls
+ * mkdir
+ * clear/ crtl + l
+ * echo xxx > xxx.txt
+ 
